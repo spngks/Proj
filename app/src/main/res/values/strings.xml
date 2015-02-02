@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lister</string>
+    <string name="action_settings">Settings</string>
+    <string name="tab_likes">Likes List</string>
+    <string name="tab_dislikes">Dislikes List</string>
+
+    <string name="err_data">Problem in getting Data</string>
+
+</resources>

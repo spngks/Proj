@@ -1,0 +1,19 @@
+<resources>
+
+    <color name="black_overlay">#90000000</color>
+    <color name="white">#ffffff</color>
+
+    <color name="light">#F5F5F5</color>
+    <color name="gray_20">#DADAD9</color>
+    <color name="gray_50">#9D9C9C</color>
+    <color name="gray_80">#575756</color>
+
+    <color name="purp">#FF44205B</color>
+    <color name="purp_light">#8044205B</color>
+
+
+    <color name="red">#FFE63331</color>
+    <color name="red_light">#7FE63331</color>
+
+
+</resources>
